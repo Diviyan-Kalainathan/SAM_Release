@@ -1,0 +1,2 @@
+filter_threshold,lambda2,dagstart,train_epochs,dagpenalization_increase,dagloss,linear,lambda1,nh,losstype,dlr,sampletype,lr,dnh,dagpenalization,use_filter,test_epochs,AUPR,SHD 0.1,SHD 0.2,SHD 0.3,SHD 0.4,SHD 0.5,SHD 0.6,SHD 0.7,SHD 0.8,SHD 0.9,DAG 0.1,DAG 0.2,DAG 0.3,DAG 0.4,DAG 0.5,DAG 0.6,DAG 0.7,DAG 0.8,DAG 0.9
+0.5,,0.5,10000,0.001,True,True,0.01,,mse,,sigmoidproba,0.01,,0,False,1000,0.4530208372624933,33.0,33.0,34.0,34.0,36.0,38.0,40.0,39.0,40.0,False,False,False,False,True,True,True,True,True

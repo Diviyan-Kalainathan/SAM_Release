@@ -1,0 +1,2 @@
+,bootstrap_ratio,complexPen,dlr,dnh,lambda1,lambda1_increase,lambda2,lambda2_increase,linear,losstype,lr,nh,numberHiddenLayersG,startRegul,test_epochs,train_epochs,nb_run,aupr
+1,1,True,0.001,200,10,0.0,0.001,0.0,False,fgan,0.01,20,2,0,1000,3000,16,0.22476274475940844

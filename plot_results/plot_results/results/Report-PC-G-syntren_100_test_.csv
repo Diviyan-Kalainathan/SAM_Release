@@ -1,0 +1,2 @@
+File,Model,AUPR,SHD 0.1,SHD 0.2,SHD 0.3,SHD 0.4,SHD 0.5,SHD 0.6,SHD 0.7,SHD 0.8,SHD 0.9,DAG 0.1,DAG 0.2,DAG 0.3,DAG 0.4,DAG 0.5,DAG 0.6,DAG 0.7,DAG 0.8,DAG 0.9,CItest,alpha,method_indep
+syntrenHop1_100_5_data.csv,PC-G,0.08546472791875025,453.0,362.0,338.0,286.0,258.0,232.0,196.0,184.0,164.0,False,False,False,False,False,False,False,False,False,gaussian,0.01,corr
